@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
+* [WooCommerce Setup](woocommerce-setup.md)
 * [Settings](settings.md)
 * [Bulk Import](bulk-import.md)
 * [F.A.Q](f.a.q.md)
