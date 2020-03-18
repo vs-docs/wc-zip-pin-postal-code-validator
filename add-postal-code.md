@@ -44,3 +44,11 @@ You can select from active payment gateways, as activated earlier in the [`WooCo
 
 You can select from active shipping methods, as created earlier in the [`WooCommerce  Setup`](woocommerce-setup.md) section, and then choose to either **Allow** these methods or **Block** them for this postal code.
 
+![](.gitbook/assets/screen-recording-2020-03-18-at-5.01.44-pm.gif)
+
+{% hint style="warning" %}
+#### **Make sure to select shipping methods listed under the "Zone" in which the country you are adding is in.** 
+
+For example, in the demo, India is inside the ****Zone **"Asia"**. So we selected shipping methods under Asia.
+{% endhint %}
+
