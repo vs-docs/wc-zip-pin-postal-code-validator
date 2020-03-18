@@ -6,3 +6,8 @@
 * [F.A.Q](f.a.q.md)
 * [Change Log](change-log.md)
 
+## Purchase / Support
+
+* [Buy Now](https://1.envato.market/wczippinpostal-code-validator)
+* [Support](https://vssupport.ticksy.com)
+
