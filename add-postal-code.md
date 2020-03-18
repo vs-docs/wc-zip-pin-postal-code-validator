@@ -52,3 +52,5 @@ You can select from active shipping methods, as created earlier in the [`WooComm
 For example, in the demo, India is inside the ****Zone **"Asia"**, so we selected shipping methods under Asia.
 {% endhint %}
 
+**Finally, click the `Add Zip/Pin/Postal Code` button to save this postal code.**
+
