@@ -9,7 +9,7 @@ The first step in the set up of the plugin is adding postal codes. This can be a
 1. Using the **Add New Postal Code** tab, and
 2. Using the **Bulk Import** tab
 
-This section will discuss the walkthrough of each process step-by-step.
+In this section we will discuss the walkthrough of the first method, **Add New Postal Code**, step-by-step.
 
 ### Add New Postal Code
 
