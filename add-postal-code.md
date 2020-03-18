@@ -58,5 +58,5 @@ For example, in the demo, India is inside the ****Zone **"Asia"**, so we selecte
 
 **That's it, you're all set!** Now add as many postal codes as you require. 
 
-If you have a lot more codes, you can always choose to run the **Bulk Import** as demonstrated in the next section. 
+If you have a lot more codes, you can always choose to run the [**`Bulk Import`**](bulk-import.md) as demonstrated in the next section. 
 
