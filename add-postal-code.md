@@ -49,6 +49,6 @@ You can select from active shipping methods, as created earlier in the [`WooComm
 {% hint style="warning" %}
 #### **Make sure to select shipping methods listed under the "Zone" in which the country you are adding is in.** 
 
-For example, in the demo, India is inside the ****Zone **"Asia"**. So we selected shipping methods under Asia.
+For example, in the demo, India is inside the ****Zone **"Asia"**, so we selected shipping methods under Asia.
 {% endhint %}
 
