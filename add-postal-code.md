@@ -32,7 +32,15 @@ You can select products from the list here, which are auto-populated from the st
 * If you select **Allow**, only these products are allowed for this postal code.
 * If you select **Block**, these products are blocked while other products are allowed.
 
+![](.gitbook/assets/screen-recording-2020-03-18-at-4.19.02-pm.gif)
 
+#### PAYMENT GATEWAYS
 
+You can select from active payment gateways, as activated earlier in the [`WooCommerce  Setup`](woocommerce-setup.md) section, and then choose to either **Allow** these gateways or **Block** them for this postal code.
 
+![](.gitbook/assets/screen-recording-2020-03-18-at-4.28.58-pm.gif)
+
+#### SHIPPING METHODS
+
+You can select from active shipping methods, as created earlier in the [`WooCommerce  Setup`](woocommerce-setup.md) section, and then choose to either **Allow** these methods or **Block** them for this postal code.
 
