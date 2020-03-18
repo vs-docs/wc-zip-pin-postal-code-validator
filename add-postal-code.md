@@ -54,3 +54,9 @@ For example, in the demo, India is inside the ****Zone **"Asia"**, so we selecte
 
 **Finally, click the `Add Zip/Pin/Postal Code` button to save this postal code.**
 
+![](.gitbook/assets/screenshot-2020-03-18-at-6.00.07-pm.png)
+
+**That's it, you're all set!** Now add as many postal codes as you require. 
+
+If you have a lot more codes, you can always choose to run the **Bulk Import** as demonstrated in the next section. 
+
