@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Change Log](README.md)
+* [Intro](README.md)
+* [Change Log](change-log.md)
 
