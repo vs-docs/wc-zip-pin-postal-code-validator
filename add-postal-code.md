@@ -2,7 +2,7 @@
 description: Instructions on how to add postal codes
 ---
 
-# Add Postal Code
+# Add New Postal Code
 
 The first step in the set up of the plugin is adding postal codes. This can be accomplished in two ways -- 
 
