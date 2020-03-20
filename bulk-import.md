@@ -26,14 +26,9 @@ As the first step, add **postal code**, **country**, **state** and **city**, one
 
 The **products** column permits you to either **allow** or **block** specific products for this postal code. If you would like to allow all products for this postal code, leave the products column empty.
 
-To **allow** specific products for a postal code enter **Product IDs** separated by the pipe delimiter "\|" in the **products** column, and in the **product\_status** column, enter _**allow**_
+To **allow** specific products for a postal code enter **Product IDs** separated by the pipe delimiter "\|" in the **products** column, and in the **product\_status** column, enter **allow**. To **block** them, enter **block** in the **product\_status** column. Alternately, you can also use **SKUs** instead of **Product IDs**.
 
-There are two ways to handle products --
 
-1. You can **allow** only specific products for this postal code, or
-2. You can **block** specific products for this postal code
-
-You can use either **Product ID** or Product SKU
 
 PRODUCTS
 
