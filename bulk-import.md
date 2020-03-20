@@ -30,17 +30,9 @@ To **allow** specific products for a postal code enter **Product IDs** separated
 
 ![](.gitbook/assets/scr_2.gif)
 
-PRODUCTS
-
 SHIPPING METHODS
 
 PAYMENT GATEWAYS
-
-PRODUCT STATUS
-
-SHIPPING METHOD STATUS
-
-PAYMENT GATEWAY STATUS
 
 
 
