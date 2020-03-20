@@ -22,10 +22,18 @@ As the first step, add **postal code**, **country**, **state** and **city**, one
 
 ![](.gitbook/assets/scr_1.gif)
 
-**Products:** There are two ways to handle products.
+#### **PRODUCTS**
 
-1. You can **allow** only specific products for this pincode, or
-2. You can **block** specific products for this pincode
+The **products** column permits you to either **allow** or **block** specific products for this postal code. If you would like to allow all products for this postal code, leave the products column empty.
+
+To **allow** specific products for a postal code enter **Product IDs** separated by the pipe delimiter "\|" in the **products** column, and in the **product\_status** column, enter _**allow**_
+
+There are two ways to handle products --
+
+1. You can **allow** only specific products for this postal code, or
+2. You can **block** specific products for this postal code
+
+You can use either **Product ID** or Product SKU
 
 PRODUCTS
 
