@@ -22,11 +22,10 @@ As the first step, add **postal code**, **country**, **state** and **city**, one
 
 ![](.gitbook/assets/scr_1.gif)
 
-COUNTRY
+**Products:** There are two ways to handle products.
 
-STATE
-
-CITY
+1. You can **allow** only specific products for this pincode, or
+2. You can **block** specific products for this pincode
 
 PRODUCTS
 
