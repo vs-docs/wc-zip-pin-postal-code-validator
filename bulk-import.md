@@ -28,7 +28,7 @@ The **products** column permits you to either **allow** or **block** specific pr
 
 To **allow** specific products for a postal code enter **Product IDs** separated by the pipe delimiter "\|" in the **products** column, and in the **product\_status** column, enter **allow**. To **block** them, enter **block** in the **product\_status** column. Alternately, you can also use **SKUs** instead of **Product IDs**.
 
-
+![](.gitbook/assets/scr_2.gif)
 
 PRODUCTS
 
