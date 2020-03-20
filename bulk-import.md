@@ -12,7 +12,33 @@ First, open the **Bulk Import** tab and download the _Sample File_
 
 ![](.gitbook/assets/screen-shot-2020-03-20-at-8.31.57-am.png)
 
-Once the _CSV sample file_ is downloaded, you can populate the fields one-by-one, each of which is demonstrated below:
+Once the _CSV sample file_ is downloaded, you can populate the fields one-by-one, each of which is demonstrated under each head below.
+
+{% hint style="danger" %}
+**Do not change the first row of the CSV file.** Changing this can cause import errors.
+{% endhint %}
+
+#### POSTAL CODE
+
+Add postal codes one per row in the **postal code** column.
+
+COUNTRY
+
+STATE
+
+CITY
+
+PRODUCTS
+
+SHIPPING METHODS
+
+PAYMENT GATEWAYS
+
+PRODUCT STATUS
+
+SHIPPING METHOD STATUS
+
+PAYMENT GATEWAY STATUS
 
 
 
