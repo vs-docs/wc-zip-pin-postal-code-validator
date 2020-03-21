@@ -26,7 +26,7 @@ As the first step, add **postal code**, **country**, **state** and **city**, one
 
 The **products** column permits you to either **allow** or **block** specific products for this postal code. If you would like to allow all products for this postal code, leave the column empty.
 
-To **allow** specific products for a postal code enter **Product IDs** separated by the pipe delimiter "\|" in the **products** column, and in the **product\_status** column, enter **allow**. To **block** them, enter **block** in the **product\_status** column. Alternately, you can also use **SKUs** instead of **Product IDs**.
+To **allow** specific products for a postal code enter **Product IDs** separated by the pipe delimiter "\|" \(the pipe delimiter is customizable in the import page\) in the **products** column, and in the **product\_status** column, enter **allow**. To **block** them, enter **block** in the **product\_status** column. Alternately, you can also use **SKUs** instead of **Product IDs**.
 
 ![](.gitbook/assets/scr_2.gif)
 
@@ -34,7 +34,7 @@ To **allow** specific products for a postal code enter **Product IDs** separated
 
 The **shipping\_methods** column permits you to either **allow** or **block** specific shipping methods for this postal code. If you would like to allow all methods for this postal code, leave the column empty.
 
-To **allow** specific methods for a postal code enter the **Method IDs** separated by the pipe delimiter "\|" in the **shipping\_methods** column, and in the **shipping\_method\_status** column, enter **allow**. To **block** them, enter **block** in the **shipping\_method\_status** column.
+To **allow** specific methods for a postal code enter the **Method IDs** separated by the pipe delimiter "\|" \(the pipe delimiter is customizable in the import page\) in the **shipping\_methods** column, and in the **shipping\_method\_status** column, enter **allow**. To **block** them, enter **block** in the **shipping\_method\_status** column.
 
 {% hint style="info" %}
 You can find **Method IDs** listed under the _**Shipping Methods**_ section of the import page
@@ -48,7 +48,7 @@ You can find **Method IDs** listed under the _**Shipping Methods**_ section of t
 
 The **payment\_gateways** column permits you to either **allow** or **block** specific payment gateways for this postal code. If you would like to allow all gateways for this postal code, leave the column empty.
 
-To **allow** specific methods for a postal code enter the **Method IDs** separated by the pipe delimiter "\|" in the **payment\_gateways** column, and in the **payment\_gateway\_status** column, enter **allow**. To **block** them, enter **block** in the **payment\_gateway\_status** column.
+To **allow** specific methods for a postal code enter the **Method IDs** separated by the pipe delimiter "\|" \(the pipe delimiter is customizable in the import page\) in the **payment\_gateways** column, and in the **payment\_gateway\_status** column, enter **allow**. To **block** them, enter **block** in the **payment\_gateway\_status** column.
 
 {% hint style="info" %}
 You can find **Method IDs** listed under the _**Payment Gateways**_ section of the import page
