@@ -30,7 +30,7 @@ To **allow** specific products for a postal code enter **Product IDs** separated
 
 ![](.gitbook/assets/scr_2.gif)
 
-SHIPPING METHODS
+#### SHIPPING METHODS
 
 The **shipping\_methods** column permits you to either **allow** or **block** specific shipping methods for this postal code. If you would like to allow all methods for this postal code, leave the column empty.
 
@@ -44,9 +44,17 @@ You can find **Method IDs** listed under the _**Shipping Methods**_ section of t
 
 ![](.gitbook/assets/scr_3.gif)
 
-PAYMENT GATEWAYS
+#### PAYMENT GATEWAYS
 
+The **payment\_gateways** column permits you to either **allow** or **block** specific payment gateways for this postal code. If you would like to allow all gateways for this postal code, leave the column empty.
 
+To **allow** specific methods for a postal code enter the **Method IDs** separated by the pipe delimiter "\|" in the **payment\_gateways** column, and in the **payment\_gateway\_status** column, enter **allow**. To **block** them, enter **block** in the **payment\_gateway\_status** column.
+
+{% hint style="info" %}
+You can find **Method IDs** listed under the _**Payment Gateways**_ section of the import page
+{% endhint %}
+
+![](.gitbook/assets/screen-shot-2020-03-21-at-7.34.45-am.png)
 
 
 
