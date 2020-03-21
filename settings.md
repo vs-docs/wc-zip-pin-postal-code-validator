@@ -30,3 +30,9 @@ To allow the users of your website to place orders only to the postal codes avai
 
 ![](.gitbook/assets/dqp2fdzvmv.gif)
 
+#### PRODUCT VALIDATION
+
+The validation message entered here is shown to the user when the products being purchased are not available at the selected postal code.
+
+![](.gitbook/assets/bnfr9byarx.gif)
+
