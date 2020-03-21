@@ -4,13 +4,7 @@ description: Plugin settings and configurations
 
 # Settings
 
-The **Settings** section handles the configuration of the plugin. The configurable options available are:
-
-* Admin Settings, 
-* Validation Messages, and 
-* Single Product Page
-
-Each of these are explained in detail as under.
+The **Settings** section handles the configuration of the plugin. The configurable options are categorized into three sections -- **Admin Settings**, **Validation Messages**, and **Single Product Page**. Each of them are demonstrated below.
 
 ### ADMIN SETTINGS
 
