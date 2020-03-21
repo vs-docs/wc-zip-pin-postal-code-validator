@@ -32,11 +32,7 @@ The validation message entered here is shown to the user when the products being
 
 ### SINGLE PRODUCT PAGE
 
-This section controls the options when a postal code is checked for serviceability on a single product page.
-
-#### WIDGET
-
-You can toggle this setting on/off and control the visual settings for validation messages such as _Box Background Color_, _Text Color_, _Success Text Color_ and _Failure Text Color_.
+This section controls the options when a postal code is checked for serviceability on a single product page. You can toggle this setting on/off and control the visual settings for validation messages such as **Box Background Color**, **Text Color**, **Success Text Color** and **Failure Text Color**.
 
 ![](.gitbook/assets/qm9zuko4zt.gif)
 
