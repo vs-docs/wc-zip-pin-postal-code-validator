@@ -56,7 +56,7 @@ You can find **Method IDs** listed under the _**Payment Gateways**_ section of t
 
 ![](.gitbook/assets/screen-shot-2020-03-21-at-7.34.45-am.png)
 
-
+![](.gitbook/assets/scr_4.gif)
 
 
 
