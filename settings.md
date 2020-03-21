@@ -20,3 +20,11 @@ This section provides an option to turn on/off the **dashboard widget**. This se
 
 ![](.gitbook/assets/jeyqgtols3.gif)
 
+### VALIDATION MESSAGES
+
+This section allows you to enter custom validation messages that the user of your website sees when they enter an unsupported postal code, or when a product is not available at the selected postal code.
+
+#### STRICT VALIDATION
+
+To allow the users of your website to place orders only to the postal codes available in the database, turn on the strict validation. If this validation is turned off, users can place orders to any postal code.
+
