@@ -11,5 +11,5 @@
 ## Purchase / Support
 
 * [Buy Now](https://1.envato.market/wczippinpostal-code-validator)
-* [Support](https://vssupport.ticksy.com)
+* [Support](https://support.varunsridharan.in)
 
