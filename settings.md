@@ -18,3 +18,5 @@ This section provides an option to turn on/off the **dashboard widget**. This se
 
 ![](.gitbook/assets/screen-shot-2020-03-21-at-8.08.50-am.png)
 
+![](.gitbook/assets/jeyqgtols3.gif)
+
