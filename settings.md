@@ -22,11 +22,15 @@ This section allows you to enter custom validation messages that the user of you
 
 To allow the users of your website to place orders only to the postal codes available in the database, turn on the strict validation. If this validation is turned off, users can place orders to any postal code.
 
-![](.gitbook/assets/dqp2fdzvmv.gif)
+![](.gitbook/assets/vyd8xmdu8w.gif)
 
 #### PRODUCT VALIDATION
 
 The validation message entered here is shown to the user when the products being purchased are not available at the selected postal code.
 
-![](.gitbook/assets/bnfr9byarx.gif)
+![](.gitbook/assets/itmzwmj4eb.gif)
+
+### SINGLE PRODUCT PAGE
+
+
 
