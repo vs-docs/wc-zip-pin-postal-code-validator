@@ -64,3 +64,9 @@ The bulk import file is now complete. The final step in this process is to impor
 Depending on the number of postal codes in the file, it could take up to a few minutes to process. Please be patient!
 {% endhint %}
 
+![](.gitbook/assets/scr_5.gif)
+
+**That's it! You're all done.** To make sure the import was successful, navigate to: WooCommerce &gt; Zip/Pin/Postal Code Validator. You should see all the imported postal codes listed under the **Postal Codes** tab.
+
+![](.gitbook/assets/screen-shot-2020-03-21-at-7.49.23-am.png)
+
