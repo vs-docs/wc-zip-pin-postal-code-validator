@@ -61,7 +61,7 @@ You can find **Method IDs** listed under the _**Payment Gateways**_ section of t
 The bulk import file is now complete. The final step in this process is to import it into the plugin. Click **Browse** at the top of the import page, select the CSV file, and click the **Upload File & Import** button at the bottom.
 
 {% hint style="info" %}
-Depending on the number of postal codes in the file, it could take up to a few minutes to process. Please be patient!
+**Please be patient!** Depending on the number of postal codes in the file, it could take up to a few minutes to process.
 {% endhint %}
 
 ![](.gitbook/assets/scr_5.gif)
