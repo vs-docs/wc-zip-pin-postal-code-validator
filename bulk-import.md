@@ -42,6 +42,8 @@ You can find **Method IDs** listed under the _**Shipping Methods**_ section of t
 
 ![](.gitbook/assets/screen-shot-2020-03-21-at-7.18.22-am.png)
 
+![](.gitbook/assets/scr_3.gif)
+
 PAYMENT GATEWAYS
 
 
