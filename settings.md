@@ -36,7 +36,9 @@ This section controls the options when a postal code is checked for serviceabili
 
 ![](.gitbook/assets/lwue6e6qyg.gif)
 
-**VALIDATION HANDLER:** Three methods are available to show the validation message on the single product page:
+#### **VALIDATION HANDLER**
+
+Three methods are available to show the validation message on the single product page:
 
 * **Show As Alert:** This shows the error in a basic JavaScript Alert Box
 
@@ -44,4 +46,10 @@ This section controls the options when a postal code is checked for serviceabili
 
 * **Show As Modern Alert:** This shows the error in a modern minimalist Alert Box
 * **Show Below Widget:** This shows error below the widget box as demonstrated above
+
+#### **COUNTRY SELECT**
+
+This option allows you to show a **Country Selector** in the single product page widget. You can choose from three different styles of Select Frameworks, viz. **Select2**, **Selectize** or **Chosen**. You can also choose to show **All Countries**, **Countries you Sell To**, or **Countries you Ship To**.
+
+![](.gitbook/assets/7uzvozcezv.gif)
 
