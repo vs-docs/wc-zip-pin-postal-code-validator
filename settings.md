@@ -36,5 +36,12 @@ This section controls the options when a postal code is checked for serviceabili
 
 ![](.gitbook/assets/lwue6e6qyg.gif)
 
+**VALIDATION HANDLER:** Three methods are available to show the validation message on the single product page:
 
+* **Show As Alert:** This shows the error in a basic JavaScript Alert Box
+
+![](.gitbook/assets/bjrcugzokf.gif)
+
+* **Show As Modern Alert:** This shows the error in a modern minimalist Alert Box
+* **Show Below Widget:** This shows error below the widget box as demonstrated above
 
