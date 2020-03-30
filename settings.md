@@ -45,6 +45,9 @@ Three methods are available to show the validation message on the single product
 ![](.gitbook/assets/bjrcugzokf.gif)
 
 * **Show As Modern Alert:** This shows the error in a modern minimalist Alert Box
+
+![](.gitbook/assets/bbza4jqdrb.gif)
+
 * **Show Below Widget:** This shows error below the widget box as demonstrated above
 
 #### **COUNTRY SELECT**
