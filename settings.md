@@ -53,3 +53,5 @@ This option allows you to show a **Country Selector** in the single product page
 
 ![](.gitbook/assets/7uzvozcezv.gif)
 
+**That's it folks!** We've covered all the plugin settings and options. You can now validate any postal code, both on the single product page, as well as the checkout page.
+
