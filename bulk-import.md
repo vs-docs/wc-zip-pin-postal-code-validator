@@ -10,6 +10,10 @@ The **Bulk Import** steps are demonstrated in this section.
 
 First, open the **Bulk Import** tab and download the _Sample File_
 
+First, open the **Bulk Import** tab and download the _Sample File_
+
+![](.gitbook/assets/screen-shot-2020-03-20-at-8.31.57-am%20%281%29.png)
+
 ![](.gitbook/assets/screen-shot-2020-03-20-at-8.31.57-am.png)
 
 Once the _CSV sample file_ is downloaded, you can populate the fields as demonstrated below.
@@ -58,7 +62,11 @@ You can find **Method IDs** listed under the _**Payment Gateways**_ section of t
 
 ![](.gitbook/assets/scr_4.gif)
 
+Open the file, and start filling out the columns, which are explained as under:
+
 The bulk import file is now complete. The final step in this process is to import it into the plugin. Click **Browse** at the top of the import page, select the CSV file, and click the **Upload File & Import** button at the bottom.
+
+
 
 {% hint style="info" %}
 **Please be patient!** Depending on the number of postal codes in the file, it could take up to a few minutes to process.
