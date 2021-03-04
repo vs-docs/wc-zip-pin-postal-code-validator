@@ -12,7 +12,7 @@ First, open the **Bulk Import** tab and download the _Sample File_
 
 First, open the **Bulk Import** tab and download the _Sample File_
 
-![](.gitbook/assets/screen-shot-2020-03-20-at-8.31.57-am.png)
+![](.gitbook/assets/screen-shot-2020-03-20-at-8.31.57-am%20%281%29.png)
 
 Once the _CSV sample file_ is downloaded, you can populate the fields as demonstrated below.
 

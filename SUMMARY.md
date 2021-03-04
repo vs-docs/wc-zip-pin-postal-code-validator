@@ -10,6 +10,6 @@
 
 ## Purchase / Support
 
-* [Buy Now](https://1.envato.market/wczippinpostal-code-validator)
+* [Buy Now](https://1.envato.market/19531662)
 * [Support](https://support.varunsridharan.in)
 
